@@ -1,11 +1,13 @@
-name=Assignment-1.1.md
-Assignment 1.1 — How a Website Works[cite: 1]
-Task: Explain in a single paragraph how a website opens on the screen after typing a URL.[cite: 1]
-What to do:
+name=Assignment-5.5.md
+Assignment 5.5 — CSS Fundamentals Mini-Project[cite: 25]
+What to build: Style the multi-page college club website from Week 4[cite: 25].
+Steps:
 
-1. Understand the basic roles of browser, client, server, and database.[cite: 1]
-2. Write the meanings of HTTP and HTTPS.[cite: 1]
-3. Explain the request-response cycle.[cite: 1]
-4. Write the differences between a static and a dynamic website.[cite: 1]
-5. Open Chrome DevTools and inspect requests in the Network tab of any website.[cite: 1]
-Submission: An explanatory paragraph and a screenshot of the Network tab.[cite: 1]
+1. Use external CSS[cite: 25].
+2. Choose a consistent color palette and typography[cite: 25].
+3. Style navigation, headings, paragraphs, and buttons[cite: 25].
+4. Make forms and tables readable[cite: 25].
+5. Use CSS selectors and variables[cite: 25].
+6. Debug styling issues using DevTools[cite: 25].
+7. Keep CSS clean and reusable[cite: 25].
+Submission: Styled multi-page website, all CSS files, and a 4–5 line explanation of design choices[cite: 25].
